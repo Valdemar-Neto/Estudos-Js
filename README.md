@@ -1,2 +1,2 @@
-# Estudos-React
-Estudando React, decidi fazer um webapp para gereciamento de atividades
+# Estudos Js
+Estudando js decidi fazer uma aplicação para clima com consumo de api da openweathermap, open source
